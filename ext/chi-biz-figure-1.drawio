@@ -4,6 +4,90 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#000000,#79BCFF);fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry width="940" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-2" value="MAC PAPERS - EU DIRECT ORLANDO" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-3" value="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras suscipit est a tellus viverra," style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="30" width="510" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-5" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-6" value="XYZ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="73" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-7" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="73" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="82" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-10" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="80" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-11" value="XYZ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="73" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-12" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="73" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-13" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="82" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-15" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-16" value="XYZ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="73" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-17" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="73" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="82" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-20" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="80" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-21" value="XYZ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="73" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-22" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="73" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-23" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="82" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-24" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="70" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-25" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#009587;strokeWidth=2;aspect=fixed;sketch=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="80" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-26" value="XYZ" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="73" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-27" value="Pay now" style="rounded=1;fillColor=#0057D8;align=center;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="865" y="73" width="65" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="hEr3JiRxEZSeGaH14vZn-28" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.checkbox;fillColor=#008465;strokeColor=none;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="82" width="14" height="14" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
