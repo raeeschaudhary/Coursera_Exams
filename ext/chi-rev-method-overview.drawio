@@ -37,6 +37,18 @@
         <mxCell id="R8D6WDOEW5ozgKSxpP7p-5" value="Mental Models" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="370" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-6" value="Automation Bias" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="430" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-7" value="Algorithmic Aversion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="500" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-8" value="Inductive&lt;div&gt;Deductive&amp;nbsp;&lt;/div&gt;&lt;div&gt;Explanations&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="570" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-9" value="Visual&lt;br&gt;&lt;div&gt;Explanations&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="640" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
