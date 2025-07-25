@@ -22,6 +22,12 @@
         <mxCell id="bBY_uPepqFwO92pdASAr-2" value="Model Accuracy" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="50" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-1" value="Performance Feedback" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-2" value="Incentivization" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
