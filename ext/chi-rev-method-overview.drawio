@@ -49,8 +49,20 @@
         <mxCell id="R8D6WDOEW5ozgKSxpP7p-9" value="Visual&lt;br&gt;&lt;div&gt;Explanations&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="640" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R8D6WDOEW5ozgKSxpP7p-10" value="CFF, N4C" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-10" value="CFF, NFC" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="450" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-11" value="Post-hoc XAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-13" value="Training/practice" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-14" value="Tutorial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8D6WDOEW5ozgKSxpP7p-15" value="Uncertainty" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
