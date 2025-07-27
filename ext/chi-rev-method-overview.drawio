@@ -145,6 +145,18 @@
         <mxCell id="cQ8Nqu2qPKcmu2mxI1YL-28" value="Conceptualization Validation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="690" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3uhGHVw7Fdv5bR249vxz-1" value="Task Complexity" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uhGHVw7Fdv5bR249vxz-2" value="Task Uncertainty" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="50" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uhGHVw7Fdv5bR249vxz-3" value="Partial XAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="700" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3uhGHVw7Fdv5bR249vxz-4" value="User Traits and Personality" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="700" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
