@@ -416,7 +416,7 @@
           <mxGeometry x="931" y="125" width="263" height="316" as="geometry" />
         </mxCell>
         <mxCell id="te6y8Lruh-g222A2JV-M-216" value="Recency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=corbel;" parent="1" vertex="1">
-          <mxGeometry x="1034" y="441" width="42" height="15" as="geometry" />
+          <mxGeometry x="1034" y="441" width="43" height="15" as="geometry" />
         </mxCell>
         <mxCell id="te6y8Lruh-g222A2JV-M-217" value="Count" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;direction=west;rotation=-90;fontFamily=corbel;" parent="1" vertex="1">
           <mxGeometry x="898" y="285" width="42" height="15" as="geometry" />
