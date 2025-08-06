@@ -4,103 +4,103 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-6" value="Data-driven Approach" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-6" value="Data-driven Approach" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="168" y="92" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-28" value="Analysis Support" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-28" value="Analysis Support" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="408" y="80" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-29" value="Adoption" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-29" value="Adoption" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="425" y="310" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-30" value="Decision Support" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-30" value="Decision Support" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="160" y="292" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-31" value="Decision Management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-31" value="Decision Management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="293" y="380" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" edge="1" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-32" target="dt3Vtw83GbaxHRJ_ENZZ-28">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-32" target="dt3Vtw83GbaxHRJ_ENZZ-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-32" value="Goals and Challenges" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-32" value="Goals and Challenges" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=20;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="293" y="202" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-34" value="Subjectivity Importance" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-34" value="Subjectivity Importance" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="88" y="400" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-35" value="Running Possible Scenarios" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-35" value="Running Possible Scenarios" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="403" y="20" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-36" value="Step-wise Analysis" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-36" value="Step-wise Analysis" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="521" y="42" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-37" value="Indepedent&amp;nbsp;&lt;div&gt;Analysis&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-37" value="Indepedent&amp;nbsp;&lt;div&gt;Analysis&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="530" y="102" width="107" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-38" value="Overcoming&amp;nbsp;&lt;div&gt;Manual Labor&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-38" value="Overcoming&amp;nbsp;&lt;div&gt;Manual Labor&amp;nbsp;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="525" y="162" width="112" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" edge="1" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-6" target="dt3Vtw83GbaxHRJ_ENZZ-32">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-6" target="dt3Vtw83GbaxHRJ_ENZZ-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="398" y="244" as="sourcePoint" />
             <mxPoint x="420" y="202" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-41" value="Objective View" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-41" value="Objective View" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="54" y="60" width="104" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-42" value="Better Insights" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-42" value="Better Insights" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="174" y="30" width="98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-43" value="Enhancing&amp;nbsp;&lt;div&gt;Trust and&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cofidence&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-43" value="Enhancing&amp;nbsp;&lt;div&gt;Trust and&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cofidence&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="52" y="118" width="108" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.418;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;fontFamily=corbel;fontSize=14;" edge="1" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-30" target="dt3Vtw83GbaxHRJ_ENZZ-32">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.418;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitPerimeter=0;fontFamily=corbel;fontSize=14;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-30" target="dt3Vtw83GbaxHRJ_ENZZ-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="278" y="222" as="sourcePoint" />
             <mxPoint x="334" y="233" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-45" value="Independent Decision-Making" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-45" value="Independent Decision-Making" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="104" y="242" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-46" value="Shortened Execution Time" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-46" value="Shortened Execution Time" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="50" y="292" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-47" value="Control&lt;div&gt;Explanations&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-47" value="Control&lt;div&gt;Explanations&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="350" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" edge="1" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-29" target="dt3Vtw83GbaxHRJ_ENZZ-32">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-29" target="dt3Vtw83GbaxHRJ_ENZZ-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="298" y="354" as="sourcePoint" />
             <mxPoint x="354" y="332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-49" value="Data&amp;nbsp;&lt;div&gt;Management&amp;nbsp;&lt;/div&gt;&lt;div&gt;Issues&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-49" value="Data&amp;nbsp;&lt;div&gt;Management&amp;nbsp;&lt;/div&gt;&lt;div&gt;Issues&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="440" y="250" width="120" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-50" value="Communicate&amp;nbsp;&lt;div&gt;and Collborate for Consensus&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-50" value="Communicate&amp;nbsp;&lt;div&gt;and Collborate for Consensus&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="174" y="465" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-52" value="Conflicts&amp;nbsp;&lt;div&gt;or&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Change in Questions&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-52" value="Conflicts&amp;nbsp;&lt;div&gt;or&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Change in Questions&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="403" y="469" width="120" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-53" value="Over-demoracy Issues" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-53" value="Over-demoracy Issues" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="292" y="500" width="112" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-54" value="Incentization&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-54" value="Incentization&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="569" y="312" width="102" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-55" value="Learning Curve" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="565" y="419" width="110" height="50" as="geometry" />
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-55" value="Learning Curve" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="520" y="410" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-56" value="Training&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-56" value="Training&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="370" width="95" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-57" value="Push-back" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-57" value="Push-back" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="570" y="251" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-31" target="dt3Vtw83GbaxHRJ_ENZZ-32">
+        <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-31" target="dt3Vtw83GbaxHRJ_ENZZ-32" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="402" as="sourcePoint" />
             <mxPoint x="472" y="360" as="targetPoint" />
