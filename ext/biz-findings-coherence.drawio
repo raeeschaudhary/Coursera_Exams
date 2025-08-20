@@ -5,19 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-6" value="Data-driven Approach" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="143" y="49" width="110" height="110" as="geometry" />
+          <mxGeometry x="152.5" y="49" width="91" height="91" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-28" value="Building Analytics Support" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="718.61" y="49" width="110" height="110" as="geometry" />
+          <mxGeometry x="718.61" y="49" width="91" height="91" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-29" value="Managing Adoption&lt;div&gt;Challenges&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="717.05" y="266" width="110" height="110" as="geometry" />
+          <mxGeometry x="717.05" y="266" width="94" height="94" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-30" value="Analytics Execution&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="143" y="264" width="110" height="110" as="geometry" />
+          <mxGeometry x="151" y="266" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-31" value="Decision Management" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=corbel;fontSize=16;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="438" y="229" width="110" height="110" as="geometry" />
+          <mxGeometry x="443.5" y="237" width="101" height="101" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-32" target="dt3Vtw83GbaxHRJ_ENZZ-28" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -40,7 +40,7 @@
           <mxGeometry x="817" y="37" width="122" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-38" value="Overcoming&amp;nbsp;&lt;div&gt;Manual Analysis&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="15" y="322.5" width="119" height="41" as="geometry" />
+          <mxGeometry x="33.5" y="321" width="119" height="41" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-40" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontFamily=corbel;fontSize=14;" parent="1" source="dt3Vtw83GbaxHRJ_ENZZ-6" target="dt3Vtw83GbaxHRJ_ENZZ-32" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -67,7 +67,7 @@
           <mxGeometry x="53" y="229" width="129" height="42" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-46" value="Shortened Execution Time" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="14" y="272" width="120" height="42" as="geometry" />
+          <mxGeometry x="20" y="273" width="120" height="42" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-47" value="&lt;div&gt;Explanations&lt;/div&gt;&lt;div&gt;Information&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="834" y="85" width="120" height="39" as="geometry" />
@@ -91,7 +91,7 @@
           <mxGeometry x="438" y="342" width="112" height="39" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-55" value="Training and Learning Curve" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="834" y="330" width="110" height="46" as="geometry" />
+          <mxGeometry x="809.61" y="326" width="110" height="46" as="geometry" />
         </mxCell>
         <mxCell id="dt3Vtw83GbaxHRJ_ENZZ-57" value="Unfamiliarity Push-back" style="ellipse;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="832.5" y="280" width="113" height="40" as="geometry" />
