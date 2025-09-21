@@ -218,13 +218,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-69" value="AI Confidence" style="rounded=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;" vertex="1" parent="1">
-          <mxGeometry x="585.5" y="317" width="129.5" height="30" as="geometry" />
+          <mxGeometry x="568.5" y="317" width="129.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-70" value="Feature Explanations" style="rounded=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;" vertex="1" parent="1">
-          <mxGeometry x="731.75" y="317" width="149.25" height="30" as="geometry" />
+          <mxGeometry x="714.75" y="317" width="149.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-71" value="Examples" style="rounded=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;" vertex="1" parent="1">
-          <mxGeometry x="893.54" y="317" width="129.5" height="30" as="geometry" />
+          <mxGeometry x="876.54" y="317" width="129.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-72" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.info;strokeColor=#4242B6;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="171" width="24" height="20" as="geometry" />
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-98" value="Reflect on the AI decision, confidence, and explanations before you decide again." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.popover;fillColor=#1A1A1A;strokeColor=none;dx=4;dy=12;rSize=5;whiteSpace=wrap;verticalAlign=top;spacing=10;fontSize=12;spacingLeft=0;align=center;spacingTop=-10;fontColor=#FFFFFF;direction=south;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="968" y="193" width="183" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bO5wLiS2eLEIMbEDFm7_-100" value="Customer Profile" style="rounded=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;" vertex="1" parent="1">
+          <mxGeometry x="1021.5" y="317" width="129.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
