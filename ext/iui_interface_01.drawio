@@ -89,7 +89,7 @@
           <mxGeometry x="88.75" y="30" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-28" value="Done" style="rounded=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;" parent="1" vertex="1">
-          <mxGeometry x="155.25" y="264" width="89.5" height="30" as="geometry" />
+          <mxGeometry x="207.75" y="264" width="89.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-29" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -108,8 +108,8 @@
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-32" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1" y="313" as="sourcePoint" />
-            <mxPoint x="521" y="313" as="targetPoint" />
+            <mxPoint x="1" y="308" as="sourcePoint" />
+            <mxPoint x="521" y="308" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-33" value="Customer Profile" style="rounded=1;fillColor=#dae8fc;align=center;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;" parent="1" vertex="1">
