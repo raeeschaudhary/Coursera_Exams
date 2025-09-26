@@ -134,7 +134,7 @@
           <mxGeometry x="675" y="54" width="22" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-44" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.info;strokeColor=#4242B6;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="932" y="123" width="22" height="20" as="geometry" />
+          <mxGeometry x="932" y="119" width="22" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-45" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="565" y="146" width="67.25" height="20" as="geometry" />
@@ -208,7 +208,7 @@
             <mxPoint x="1065" y="261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bO5wLiS2eLEIMbEDFm7_-67" value="How confidence are you about this choice" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00293E;fontStyle=1;fontSize=20;fontFamily=corbel;" parent="1" vertex="1">
+        <mxCell id="bO5wLiS2eLEIMbEDFm7_-67" value="How confident are you about this choice" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00293E;fontStyle=1;fontSize=20;fontFamily=corbel;" parent="1" vertex="1">
           <mxGeometry x="561" y="181" width="413.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-68" value="" style="endArrow=none;html=1;rounded=0;entryX=1.005;entryY=0.884;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="bO5wLiS2eLEIMbEDFm7_-37" edge="1">
@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-85" value="After reading this, you can decide again" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00293E;fontStyle=1;fontSize=20;fontFamily=corbel;" parent="1" vertex="1">
-          <mxGeometry x="561.25" y="119" width="358.75" height="20" as="geometry" />
+          <mxGeometry x="561.25" y="116" width="358.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-86" value="Text" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="821" y="269" width="233" height="30" as="geometry" />
