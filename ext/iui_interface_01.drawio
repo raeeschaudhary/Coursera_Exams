@@ -166,7 +166,7 @@
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-54" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="967" y="130" width="67.25" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bO5wLiS2eLEIMbEDFm7_-55" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=light-dark(#264DE8,#392F3F);checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;strokeColor=#9673a6;" parent="bO5wLiS2eLEIMbEDFm7_-54" vertex="1">
+        <mxCell id="bO5wLiS2eLEIMbEDFm7_-55" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.radioButton2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;fillColor=light-dark(#325032, #392F3F);checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;strokeColor=#9673a6;" parent="bO5wLiS2eLEIMbEDFm7_-54" vertex="1">
           <mxGeometry width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-56" value="C4" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Helvetica;" parent="bO5wLiS2eLEIMbEDFm7_-54" vertex="1">
@@ -175,7 +175,7 @@
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-57" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="679.25" y="192" width="386" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="bO5wLiS2eLEIMbEDFm7_-58" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.slider2;barPos=97.07;strokeColor=#3F51B5;opacity=100;strokeWidth=2;fillColor=#3F51B5;handleSize=20;shadow=0;html=1;" parent="bO5wLiS2eLEIMbEDFm7_-57" vertex="1">
+        <mxCell id="bO5wLiS2eLEIMbEDFm7_-58" value="" style="dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.gmdl.slider2;barPos=97.07;strokeColor=light-dark(#325032, #91a1f7);opacity=100;strokeWidth=2;fillColor=light-dark(#325032, #91a1f7);handleSize=20;shadow=0;html=1;" parent="bO5wLiS2eLEIMbEDFm7_-57" vertex="1">
           <mxGeometry x="2.75" y="11" width="376" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-59" value="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Helvetica;" parent="bO5wLiS2eLEIMbEDFm7_-57" vertex="1">
@@ -277,7 +277,7 @@
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-89" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.info;strokeColor=#4242B6;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1052.5" y="173" width="22" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bO5wLiS2eLEIMbEDFm7_-98" value="Reflect on the AI decision, confidence, and explanations before you decide again." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.popover;fillColor=#1A1A1A;strokeColor=none;dx=4;dy=12;rSize=5;whiteSpace=wrap;verticalAlign=top;spacing=10;fontSize=12;spacingLeft=0;align=center;spacingTop=-10;fontColor=#FFFFFF;direction=south;spacingLeft=5;" parent="1" vertex="1">
+        <mxCell id="bO5wLiS2eLEIMbEDFm7_-98" value="Reflect on the AI decision, confidence, and explanations before you decide again." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.popover;fillColor=light-dark(#325032, #d7d7d7);strokeColor=none;dx=4;dy=12;rSize=5;whiteSpace=wrap;verticalAlign=top;spacing=10;fontSize=12;spacingLeft=0;align=center;spacingTop=-10;fontColor=#FFFFFF;direction=south;spacingLeft=5;" parent="1" vertex="1">
           <mxGeometry x="1081" y="185" width="183" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-100" value="Customer Profile" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" parent="1" vertex="1">
