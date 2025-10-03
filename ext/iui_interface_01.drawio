@@ -221,10 +221,10 @@
           <mxGeometry x="674.25" y="294" width="107.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-70" value="Feature Explanations" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="923" y="294" width="141" height="30" as="geometry" />
+          <mxGeometry x="917" y="294" width="141" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-71" value="Examples" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="804.02" y="294" width="99.21" height="30" as="geometry" />
+          <mxGeometry x="800" y="294" width="99.21" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bO5wLiS2eLEIMbEDFm7_-72" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=2;shape=mxgraph.ios7.misc.info;strokeColor=#4242B6;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="430" y="160" width="22" height="20" as="geometry" />
@@ -302,7 +302,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VXb98FYIcS5fZDG2mM4F-1" value="Decision Rules" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1076" y="294" width="99.21" height="30" as="geometry" />
+          <mxGeometry x="1075" y="294" width="99.21" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
