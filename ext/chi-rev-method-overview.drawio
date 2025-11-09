@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-13" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Model Uncertainty and Confidence&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:32}]}&quot;&gt;&lt;span&gt;Model Uncertainty and Confidence&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="223" y="-1031" width="277" height="30" as="geometry" />
+          <mxGeometry x="223" y="-1029" width="277" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-14" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Stated and Observed Accuracy&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:28}]}&quot;&gt;&lt;span&gt;Stated and Observed Accuracy&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="223" y="-953" width="257" height="30" as="geometry" />
