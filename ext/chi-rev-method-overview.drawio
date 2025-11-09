@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-2" value="Methods" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fontFamily=corbel;fontSize=24;fontStyle=1;verticalAlign=top;spacingTop=27;" parent="1" vertex="1">
-          <mxGeometry x="-317" y="-899" width="182" height="110" as="geometry" />
+          <mxGeometry x="-317" y="-899" width="237" height="110" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#3C1642;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-3" target="PtiUf_iEGA8k-fnA4IGh-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-3" value="AI Systems" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-175" y="-894" width="120" height="50" as="geometry" />
+          <mxGeometry x="-118" y="-894" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#3C1642;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-4" target="PtiUf_iEGA8k-fnA4IGh-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,87 +29,87 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-5" value="Interaction Factors" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-297" y="-829" width="144.63" height="50" as="geometry" />
+          <mxGeometry x="-272" y="-821" width="144.63" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PtiUf_iEGA8k-fnA4IGh-9" value="&lt;span style=&quot;&quot;&gt;Performance Factors&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-5" y="-991" width="190" height="30" as="geometry" />
+        <mxCell id="PtiUf_iEGA8k-fnA4IGh-9" value="&lt;span style=&quot;&quot;&gt;Performance&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;Factors&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="55" y="-991" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;strokeWidth=4;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-10" target="PtiUf_iEGA8k-fnA4IGh-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-10" value="&lt;span style=&quot;&quot;&gt;XAI&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry y="-776" width="50" height="30" as="geometry" />
+          <mxGeometry x="60" y="-776" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#3C1642;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-3" target="PtiUf_iEGA8k-fnA4IGh-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-35" y="-809" as="sourcePoint" />
-            <mxPoint x="24" y="-899" as="targetPoint" />
+            <mxPoint x="19" y="-809" as="sourcePoint" />
+            <mxPoint x="78" y="-899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-13" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Model Uncertainty and Confidence&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:32}]}&quot;&gt;&lt;span&gt;Model Uncertainty and Confidence&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="240" y="-1031" width="277" height="30" as="geometry" />
+          <mxGeometry x="223" y="-1031" width="277" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-14" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Stated and Observed Accuracy&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:28}]}&quot;&gt;&lt;span&gt;Stated and Observed Accuracy&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="240" y="-953" width="257" height="30" as="geometry" />
+          <mxGeometry x="223" y="-953" width="257" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-9" target="PtiUf_iEGA8k-fnA4IGh-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="-991" as="sourcePoint" />
-            <mxPoint x="244" y="-1081" as="targetPoint" />
+            <mxPoint x="239" y="-991" as="sourcePoint" />
+            <mxPoint x="298" y="-1081" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-9" target="PtiUf_iEGA8k-fnA4IGh-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="-891" as="sourcePoint" />
-            <mxPoint x="289" y="-811" as="targetPoint" />
+            <mxPoint x="279" y="-891" as="sourcePoint" />
+            <mxPoint x="343" y="-811" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-17" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;XAI Analogies&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:13}]}&quot;&gt;&lt;span&gt;XAI Analogies&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="142" y="-886" width="192" height="30" as="geometry" />
+          <mxGeometry x="196" y="-886" width="192" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-18" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Local and Global Explanations &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:30}]}&quot;&gt;&lt;span&gt;Local and Global Explanations&amp;nbsp;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="142" y="-842" width="290" height="30" as="geometry" />
+          <mxGeometry x="196" y="-842" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-19" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Counterfactual&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:14}]}&quot;&gt;&lt;span&gt;Counterfactual XAI&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="142" y="-798" width="285" height="30" as="geometry" />
+          <mxGeometry x="196" y="-798" width="285" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-20" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;XAI Difficulty&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:14}]}&quot;&gt;&lt;span&gt;XAI Difficulty&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="142" y="-754" width="192" height="30" as="geometry" />
+          <mxGeometry x="196" y="-754" width="192" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-21" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Pro-hoc and Post-hoc Examples&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:29}]}&quot;&gt;&lt;span&gt;Pro-hoc and Post-hoc Examples&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="142" y="-710" width="320" height="30" as="geometry" />
+          <mxGeometry x="196" y="-710" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-22" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Visual Explanations&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:19}]}&quot;&gt;&lt;span&gt;Visual Explanations&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="142" y="-666" width="192" height="30" as="geometry" />
+          <mxGeometry x="196" y="-666" width="192" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-10" target="PtiUf_iEGA8k-fnA4IGh-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="25" y="-599" as="sourcePoint" />
-            <mxPoint x="84" y="-689" as="targetPoint" />
+            <mxPoint x="79" y="-599" as="sourcePoint" />
+            <mxPoint x="138" y="-689" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-10" target="PtiUf_iEGA8k-fnA4IGh-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="45" y="-609" as="sourcePoint" />
-            <mxPoint x="104" y="-699" as="targetPoint" />
+            <mxPoint x="99" y="-609" as="sourcePoint" />
+            <mxPoint x="158" y="-699" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-10" target="PtiUf_iEGA8k-fnA4IGh-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="35" y="-579" as="sourcePoint" />
-            <mxPoint x="94" y="-669" as="targetPoint" />
+            <mxPoint x="89" y="-579" as="sourcePoint" />
+            <mxPoint x="148" y="-669" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-10" target="PtiUf_iEGA8k-fnA4IGh-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="-519" as="sourcePoint" />
-            <mxPoint x="44" y="-609" as="targetPoint" />
+            <mxPoint x="39" y="-519" as="sourcePoint" />
+            <mxPoint x="98" y="-609" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-10" target="PtiUf_iEGA8k-fnA4IGh-17" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="115" y="-763" as="sourcePoint" />
-            <mxPoint x="207" y="-829" as="targetPoint" />
+            <mxPoint x="169" y="-763" as="sourcePoint" />
+            <mxPoint x="261" y="-829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-33" target="PtiUf_iEGA8k-fnA4IGh-51" edge="1">
@@ -125,7 +125,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-33" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Motivating \nor Engaging Users&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:29}]}&quot;&gt;Motivating &lt;br&gt;or Engaging Users&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-654.5" y="-694" width="160" height="52" as="geometry" />
+          <mxGeometry x="-629.5" y="-686" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-34" target="PtiUf_iEGA8k-fnA4IGh-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -135,38 +135,38 @@
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-34" target="PtiUf_iEGA8k-fnA4IGh-41" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="59" y="-549" as="targetPoint" />
+            <mxPoint x="84" y="-541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-34" target="PtiUf_iEGA8k-fnA4IGh-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-34" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Intervention Adaptations&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:24}]}&quot;&gt;Intervention Adaptations&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-87" y="-690" width="115" height="48" as="geometry" />
+          <mxGeometry x="-62" y="-682" width="115" height="48" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-38" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Task Difficulty\n/ Uncertainty&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:29}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Task Difficulty&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;/ Uncertainty&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-298" y="-567" width="143" height="50" as="geometry" />
+          <mxGeometry x="-274" y="-559" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-40" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Time Effect /\nPressure&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:22}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Time Effect /&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Pressure&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-149" y="-567" width="120" height="50" as="geometry" />
+          <mxGeometry x="-123" y="-559" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-41" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Cost/Benefit\nof XAI&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:19}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Cost/Benefit&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;of XAI&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-35" y="-567" width="130" height="50" as="geometry" />
+          <mxGeometry x="-10" y="-559" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PtiUf_iEGA8k-fnA4IGh-42" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Cognitive Forcing, \nFrictional AI\nPartial XAI&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:45}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Cognitive Forcing, &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Frictional AI&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Partial XAI&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="97" y="-567" width="160" height="80" as="geometry" />
+        <mxCell id="PtiUf_iEGA8k-fnA4IGh-42" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Cognitive Forcing, \nFrictional AI\nPartial XAI&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:45}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Cognitive Forcing, &lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Frictional AI,&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Partial XAI&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="116" y="-559" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-48" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Incentivization&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:15}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Incentivization&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-843" y="-569" width="143" height="50" as="geometry" />
+          <mxGeometry x="-818" y="-561" width="143" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-49" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Uncertainty\nCommunication&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:25}]}&quot;&gt;&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Tutorials and\nTraining&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:22}]}&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Tutorials&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;and&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 20px;&quot;&gt;Training&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-700" y="-569" width="122" height="50" as="geometry" />
+          <mxGeometry x="-675" y="-561" width="122" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-50" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Performance\nFeedback&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:20}]}&quot;&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Performance&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size:20px;&quot;&gt;Feedback&lt;/span&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-572" y="-569" width="114" height="50" as="geometry" />
+          <mxGeometry x="-547" y="-561" width="114" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-51" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Uncertainty&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Communication&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-455" y="-569" width="129" height="50" as="geometry" />
+          <mxGeometry x="-430" y="-561" width="129" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;" parent="1" source="PtiUf_iEGA8k-fnA4IGh-56" target="PtiUf_iEGA8k-fnA4IGh-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
