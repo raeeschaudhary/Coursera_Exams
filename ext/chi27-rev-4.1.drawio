@@ -181,6 +181,12 @@
         <mxCell id="IEeuGdr3sJL0bW0qjFQQ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Indicators&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="120" x="-590" y="-1019" as="geometry" />
         </mxCell>
+        <mxCell id="IEeuGdr3sJL0bW0qjFQQ-5" edge="1" parent="1" source="PtiUf_iEGA8k-fnA4IGh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;endSize=6;strokeWidth=4;strokeColor=#3C1642;" target="PtiUf_iEGA8k-fnA4IGh-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-449" y="-760" as="sourcePoint" />
+            <mxPoint x="-690" y="-666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
