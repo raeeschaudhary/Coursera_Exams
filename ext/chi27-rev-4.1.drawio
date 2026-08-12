@@ -145,14 +145,14 @@
             <mxPoint x="-231" y="-631" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YrMLx2m5gdHC7uzlHbKU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" value="De-biasing" vertex="1">
-          <mxGeometry height="30" width="160" x="-144" y="-719" as="geometry" />
+        <mxCell id="YrMLx2m5gdHC7uzlHbKU-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontStyle=1;fontSize=20;" value="Individual Factors" vertex="1">
+          <mxGeometry height="30" width="160" x="-110" y="-716" as="geometry" />
         </mxCell>
         <mxCell id="YrMLx2m5gdHC7uzlHbKU-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Reflections&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="120" x="-230" y="-499" as="geometry" />
+          <mxGeometry height="50" width="120" x="-150" y="-659" as="geometry" />
         </mxCell>
         <mxCell id="YrMLx2m5gdHC7uzlHbKU-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=corbel;fontSize=18;fontStyle=1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Constrasts&lt;/span&gt;" vertex="1">
-          <mxGeometry height="50" width="108" x="-100" y="-499" as="geometry" />
+          <mxGeometry height="50" width="108" x="-20" y="-659" as="geometry" />
         </mxCell>
         <mxCell id="YrMLx2m5gdHC7uzlHbKU-10" edge="1" parent="1" source="YrMLx2m5gdHC7uzlHbKU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#FB8B24;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="YrMLx2m5gdHC7uzlHbKU-9">
           <mxGeometry relative="1" as="geometry">
