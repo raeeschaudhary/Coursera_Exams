@@ -47,7 +47,7 @@
           <mxGeometry height="30" width="156" x="-1562" y="-650" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=calibri;fontSize=18;fontStyle=1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Contrastive&lt;/span&gt;" vertex="1">
-          <mxGeometry height="28" width="108" x="-1398" y="-648" as="geometry" />
+          <mxGeometry height="28" width="108" x="-1399" y="-648" as="geometry" />
         </mxCell>
         <mxCell id="1TtV2w6_ZYYBKLlype06-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=calibri;fontStyle=1;fontSize=20;" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Intervention Adaptations&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:24}]}&quot;&gt;Performance&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="135.31" x="-1345.97" y="-933" as="geometry" />
@@ -94,7 +94,7 @@
             <mxPoint x="-1137" y="-770" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IEeuGdr3sJL0bW0qjFQQ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=calibri;fontStyle=1;fontSize=20;" value="Critical Use" vertex="1">
+        <mxCell id="IEeuGdr3sJL0bW0qjFQQ-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=calibri;fontStyle=1;fontSize=20;" value="Analytical Use" vertex="1">
           <mxGeometry height="30" width="160" x="-1268" y="-743" as="geometry" />
         </mxCell>
         <mxCell id="IEeuGdr3sJL0bW0qjFQQ-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=calibri;fontSize=18;fontStyle=1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Deliberation&lt;/span&gt;" vertex="1">
