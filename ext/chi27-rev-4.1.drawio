@@ -49,13 +49,13 @@
           <mxGeometry height="28" width="95.31" x="-1672" y="-1060" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Tahoma;fontSize=18;fontStyle=1;fontColor=#3C1642;" value="&lt;span data-lucid-type=&quot;application/vnd.lucid.text&quot; data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;Incentivization&amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;s&amp;quot;,&amp;quot;v&amp;quot;:26.666666666666668,&amp;quot;e&amp;quot;:15}]}&quot;&gt;&lt;span&gt;Language-based&lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="181.5" x="-1700" y="-668" as="geometry" />
+          <mxGeometry height="30" width="181.5" x="-1689" y="-758" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Tahoma;fontSize=18;fontStyle=1;fontColor=#3C1642;" value="&lt;span&gt;Feature-based&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="156" x="-1524.25" y="-670" as="geometry" />
+          <mxGeometry height="30" width="156" x="-1524.25" y="-778" as="geometry" />
         </mxCell>
         <mxCell id="PtiUf_iEGA8k-fnA4IGh-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Tahoma;fontSize=18;fontStyle=1;fontColor=#3C1642;" value="&lt;span&gt;Contrastive&lt;/span&gt;" vertex="1">
-          <mxGeometry height="28" width="108" x="-1340" y="-668" as="geometry" />
+          <mxGeometry height="28" width="108" x="-1359" y="-758" as="geometry" />
         </mxCell>
         <mxCell id="1TtV2w6_ZYYBKLlype06-3" edge="1" parent="1" source="PtiUf_iEGA8k-fnA4IGh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;curved=1;endArrow=none;endFill=0;strokeColor=#386641;fontFamily=calibri;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="lsO9p7yOgCXVBQi-eopT-4">
           <mxGeometry relative="1" as="geometry">
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IEeuGdr3sJL0bW0qjFQQ-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=9;strokeWidth=2;fontFamily=Verdana;fontSize=18;fontStyle=1;strokeColor=none;fillColor=#FCCA46;" value="Engaging with GenAI" vertex="1">
-          <mxGeometry height="100" width="202.32" x="-902.32" y="-905" as="geometry" />
+          <mxGeometry height="100" width="202.32" x="-915.5" y="-890" as="geometry" />
         </mxCell>
         <mxCell id="IEeuGdr3sJL0bW0qjFQQ-8" edge="1" parent="1" source="Ow1R4KaTOXE59MqgZkow-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;curved=1;endSize=6;strokeWidth=4;strokeColor=#3C1642;fontFamily=calibri;" target="IEeuGdr3sJL0bW0qjFQQ-6">
           <mxGeometry relative="1" as="geometry">
@@ -268,7 +268,7 @@
           <mxGeometry height="60" width="149.63" x="-1522" y="-1020" as="geometry" />
         </mxCell>
         <mxCell id="lsO9p7yOgCXVBQi-eopT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=15;strokeWidth=2;fontFamily=Tahoma;fontSize=20;fontStyle=1;fillColor=#EB7100;strokeColor=none;fontColor=#FFFFFF;align=center;verticalAlign=middle;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Explanations&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="181.5" x="-1537" y="-862" as="geometry" />
+          <mxGeometry height="60" width="181.5" x="-1537" y="-891" as="geometry" />
         </mxCell>
         <mxCell id="lsO9p7yOgCXVBQi-eopT-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeWidth=2;fontFamily=calibri;fontSize=18;fontStyle=1;fillColor=#FCCA46;strokeColor=none;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Analytical Use&lt;/span&gt;" vertex="1">
           <mxGeometry height="38" width="135.31" x="-1220.32" y="-654" as="geometry" />
