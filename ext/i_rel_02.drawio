@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6g2SVNzapKEUaUeoNaD--55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=corbel;" value="" vertex="1">
+          <mxGeometry height="280" width="288.5" x="920" y="3" as="geometry" />
+        </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=corbel;" value="" vertex="1">
           <mxGeometry height="280" width="309" x="607" y="3" as="geometry" />
         </mxCell>
@@ -128,10 +131,10 @@
           <mxGeometry height="30" width="20.5" x="90" y="22" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;" value="" vertex="1">
-          <mxGeometry height="121" width="288.5" x="617.5" y="52" as="geometry" />
+          <mxGeometry height="121" width="288.5" x="617.5" y="154" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--43" connectable="0" parent="1" style="group;fontColor=light-dark(#000000,#010101);fontFamily=corbel;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="31" width="215.66" x="624.5" y="83.5" as="geometry" />
+          <mxGeometry height="31" width="215.66" x="624.5" y="185.5" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--44" parent="6g2SVNzapKEUaUeoNaD--43" style="rounded=1;fillColor=light-dark(#F1F2F4,#FFFFFF);strokeColor=none;html=1;whiteSpace=wrap;fontColor=light-dark(#000000,#000000);align=left;fontSize=14;spacingLeft=10;sketch=0;fillStyle=solid;fontFamily=corbel;" value="C" vertex="1">
           <mxGeometry height="30" width="210" as="geometry" />
@@ -140,31 +143,28 @@
           <mxGeometry height="30" width="20.5" x="189.16" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--46" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=corbel;fontStyle=1" value="&lt;span style=&quot;color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;Select a label and update it&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="200" x="624.5" y="61.5" as="geometry" />
+          <mxGeometry height="20" width="200" x="624.5" y="163.5" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--47" connectable="0" parent="1" style="group;fontColor=light-dark(#000000,#010101);fontFamily=corbel;fontSize=16;" value="" vertex="1">
-          <mxGeometry height="31" width="210" x="625" y="127.5" as="geometry" />
+          <mxGeometry height="31" width="210" x="625" y="229.5" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--48" parent="6g2SVNzapKEUaUeoNaD--47" style="rounded=1;fillColor=light-dark(#F1F2F4,#FFFFFF);strokeColor=none;html=1;whiteSpace=wrap;fontColor=light-dark(#000000,#000000);align=left;fontSize=14;spacingLeft=10;sketch=0;fillStyle=solid;fontFamily=corbel;" value="Give a new label" vertex="1">
           <mxGeometry height="30" width="210" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--49" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=12;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" value="Update" vertex="1">
-          <mxGeometry height="26" width="56.5" x="842.5" y="132.5" as="geometry" />
+          <mxGeometry height="26" width="56.5" x="842.5" y="234.5" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;" value="" vertex="1">
-          <mxGeometry height="77.02" width="288.5" x="617.5" y="193" as="geometry" />
+          <mxGeometry height="77.02" width="269.68" x="930.24" y="196" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--51" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=corbel;fontStyle=1" value="&lt;span style=&quot;color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;More details&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="210" x="622.5" y="205.5" as="geometry" />
+          <mxGeometry height="20" width="210" x="935.24" y="208.5" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--52" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=12;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" value="View History" vertex="1">
-          <mxGeometry height="26" width="75" x="822.5" y="225.5" as="geometry" />
+          <mxGeometry height="26" width="75" x="1087.24" y="228.5" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--53" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=corbel;fontStyle=0" value="&lt;span style=&quot;color: rgb(33, 37, 41); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;Customer 1 - DIRECT&lt;/span&gt;" vertex="1">
-          <mxGeometry height="20" width="138" x="625" y="234" as="geometry" />
-        </mxCell>
-        <mxCell id="6g2SVNzapKEUaUeoNaD--55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=corbel;" value="" vertex="1">
-          <mxGeometry height="280" width="288.5" x="920" y="3" as="geometry" />
+          <mxGeometry height="20" width="138" x="937.74" y="237" as="geometry" />
         </mxCell>
         <mxCell id="6g2SVNzapKEUaUeoNaD--56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#325032, #1f2f1e);fillStyle=solid;strokeColor=#82b366;fontFamily=corbel;labelBorderColor=none;" value="" vertex="1">
           <mxGeometry height="38" width="288.5" x="921" y="4" as="geometry" />
@@ -321,6 +321,21 @@
         </mxCell>
         <mxCell id="ZXuBwBdU3Ij0woQcU0VU-60" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=corbel;" value="66" vertex="1">
           <mxGeometry height="15" width="60" x="1049" y="112" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sljLqBQxebo6xuc_Fr-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;" value="" vertex="1">
+          <mxGeometry height="95.27" width="288.5" x="617.5" y="53" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sljLqBQxebo6xuc_Fr-2" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" value="Model Confidence" vertex="1">
+          <mxGeometry height="28" width="131.5" x="630" y="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sljLqBQxebo6xuc_Fr-3" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" value="Feature Importance" vertex="1">
+          <mxGeometry height="28" width="131.5" x="630" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sljLqBQxebo6xuc_Fr-4" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" value="Rule/Decision" vertex="1">
+          <mxGeometry height="28" width="131.5" x="768" y="66.5" as="geometry" />
+        </mxCell>
+        <mxCell id="p1sljLqBQxebo6xuc_Fr-5" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;fontColor=#ffffff;" value="Similar Examples" vertex="1">
+          <mxGeometry height="28" width="131.5" x="768" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
