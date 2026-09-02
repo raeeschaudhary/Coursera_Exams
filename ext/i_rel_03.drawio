@@ -151,7 +151,7 @@
         <mxCell id="YzjsGGXxrxfhqqs31J0x-9" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00293E;fontStyle=1;fontSize=22;fontFamily=corbel;" value="Model Accuracy" vertex="1">
           <mxGeometry height="23" width="160.5" x="14.629999999999999" y="158" as="geometry" />
         </mxCell>
-        <mxCell id="YzjsGGXxrxfhqqs31J0x-10" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=corbel;fontStyle=1" value="86.2" vertex="1">
+        <mxCell id="YzjsGGXxrxfhqqs31J0x-10" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=corbel;fontStyle=1" value="97.3" vertex="1">
           <mxGeometry height="29" width="94.37" x="13.629999999999999" y="192" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" value="" vertex="1">
@@ -188,7 +188,7 @@
           <mxGeometry height="40" width="188" x="911" y="1" as="geometry" />
         </mxCell>
         <mxCell id="jiBfnoHE1T3-EJLabuAN-78" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#FFFFFF,#5EB5E1);fontStyle=1;fontSize=20;fontFamily=corbel;" value="Inspection" vertex="1">
-          <mxGeometry height="20" width="300" x="911" y="11" as="geometry" />
+          <mxGeometry height="20" width="160" x="911" y="11" as="geometry" />
         </mxCell>
         <mxCell id="jiBfnoHE1T3-EJLabuAN-89" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=corbel;fontStyle=0;rotation=-90;" value="Model Probability" vertex="1">
           <mxGeometry height="20" width="122.87" x="866.8100000000002" y="107.44" as="geometry" />
