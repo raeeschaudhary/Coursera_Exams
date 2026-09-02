@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KwD0PGIpFTCkLszEvyPw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=corbel;" value="" vertex="1">
+          <mxGeometry height="243" width="903" x="3" y="280" as="geometry" />
+        </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="81" width="217.25" x="461.44" y="429" as="geometry" />
+          <mxGeometry height="81" width="217.25" x="457.44" y="429" as="geometry" />
         </mxCell>
         <mxCell id="omNJDWsKIieMo2KI1Scz-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=corbel;" value="" vertex="1">
           <mxGeometry height="259" width="800" x="459" y="1" as="geometry" />
@@ -172,9 +175,6 @@
             <mxPoint x="439" y="182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KwD0PGIpFTCkLszEvyPw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=corbel;" value="" vertex="1">
-          <mxGeometry height="243" width="903" x="3" y="280" as="geometry" />
-        </mxCell>
         <mxCell id="KwD0PGIpFTCkLszEvyPw-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#325032, #1f2f1e);fillStyle=solid;strokeColor=#82b366;fontFamily=corbel;labelBorderColor=none;align=center;verticalAlign=middle;fontSize=12;fontColor=default;" value="" vertex="1">
           <mxGeometry height="40" width="900" x="4" y="282" as="geometry" />
         </mxCell>
@@ -308,28 +308,28 @@
           <mxGeometry height="26" width="52.5" x="839" y="331" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-6" parent="1" style="rounded=1;fillColor=#1ba1e2;align=center;strokeColor=#006EAF;html=1;whiteSpace=wrap;fontColor=#ffffff;fontSize=14;sketch=0;fontStyle=1;fontFamily=corbel;verticalAlign=middle;" value="Predict Again" vertex="1">
-          <mxGeometry height="30" width="122.13" x="475.94" y="471" as="geometry" />
+          <mxGeometry height="30" width="122.13" x="471.94" y="471" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-7" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;labelBackgroundColor=default;fontFamily=corbel;" value="Changed Features?" vertex="1">
-          <mxGeometry height="31" width="196" x="472.07" y="436" as="geometry" />
+          <mxGeometry height="31" width="196" x="468.07" y="436" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="81" width="217.25" x="17" y="429" as="geometry" />
+          <mxGeometry height="81" width="217.25" x="9" y="429" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-9" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00293E;fontStyle=1;fontSize=24;fontFamily=corbel;" value="Model Accuracy" vertex="1">
-          <mxGeometry height="23" width="178" x="27.63" y="438" as="geometry" />
+          <mxGeometry height="23" width="178" x="19.63" y="438" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-10" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=corbel;fontStyle=1" value="86.2" vertex="1">
-          <mxGeometry height="29" width="94.37" x="25.63" y="472" as="geometry" />
+          <mxGeometry height="29" width="94.37" x="17.63" y="472" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" value="" vertex="1">
-          <mxGeometry height="81" width="217.25" x="238" y="429" as="geometry" />
+          <mxGeometry height="81" width="217.25" x="232" y="429" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-12" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#00293E;fontStyle=1;fontSize=24;fontFamily=corbel;" value="Prediction" vertex="1">
-          <mxGeometry height="20" width="198" x="247.62" y="438" as="geometry" />
+          <mxGeometry height="20" width="198" x="241.62" y="438" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-13" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=corbel;" value="Prediction: GOLD" vertex="1">
-          <mxGeometry height="15" width="198" x="247.62" y="474" as="geometry" />
+          <mxGeometry height="15" width="198" x="241.62" y="474" as="geometry" />
         </mxCell>
         <mxCell id="YzjsGGXxrxfhqqs31J0x-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=corbel;fontSize=14;" value="" vertex="1">
           <mxGeometry height="81" width="217.25" x="681.38" y="429" as="geometry" />
